@@ -1,11 +1,11 @@
 # ADS4SJ_Project
 Outline:
-‭ Major goals of project‬‭‬
+‭ Major goals of project //‬‭‬
 ‭ I chose this research question because I am interested in the integration of MCSLC into‬
 ‭ Eugene/Lane county and how that affected CAHOOTS in the aftermath.‬‭ My major goals‬
 ‭ for this project are to determine if the call types changed for CAHOOTS and EPD before‬
-‭ and after the introduction of MCSLC.‬
-‭ Timeline and completion‬‭‬
+‭ and after the introduction of MCSLC.\\‬
+‭ Timeline and completion//‬‭‬
 ‭ I first plan on doing data cleaning on the data set by separating the data into CAHOOTS‬
 ‭ and not CAHOOTS then separating into before and after August 2024, when MCSLC was‬
 ‭ introduced. I estimate that I am 100% done with cleaning the data because I have already‬
