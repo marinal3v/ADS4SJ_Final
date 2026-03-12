@@ -1,6 +1,6 @@
 # ADS4SJ_Project
 Outline:
-‭ Major goals of project /n‬‭‬
+‭ Major goals of project‬‭‬
 ‭ I chose this research question because I am interested in the integration of MCSLC into‬
 ‭ Eugene/Lane county and how that affected CAHOOTS in the aftermath.‬‭ My major goals‬
 ‭ for this project are to determine if the call types changed for CAHOOTS and EPD before‬
